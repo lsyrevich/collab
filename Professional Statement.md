@@ -1,0 +1,7 @@
+Professional statement
+After years of immersion in various IT projects as a Delivery Manager, I've made a deliberate shift in focus towards cybersecurity, a domain I consider key in a modern world. Drawing from personal encounters, I've witnessed firsthand the significant ramifications of data breaches, which often entail substantial resource allocation to mitigate. Motivated by this, I'm dedicated to expanding my knowledge of cybersecurity to contribute to data protection and cultivate expertise in the field.
+My journey in IT started many years ago as a quality assurance engineer. Throughout my career, I've developed a fervent drive for optimizing user experiences. An instrumental skill I've refined over the years is my meticulous attention to detail, coupled with an unwavering commitment to identifying and eliminating weaknesses in products or processes.
+I firmly espouse the notion that effective data protection within any organization necessitates a collaborative approach—working within a team dedicated to preemptively identifying vulnerabilities to proactively mitigate potential breaches that could jeopardize organizational integrity or individual privacy.
+Completing a Cybersecurity course will represent a significant milestone in my journey towards realizing my ambition of becoming a cybersecurity professional. Ultimately, I aspire to contribute to fostering a safer digital environment for individuals and their families by safeguarding their data and privacy.
+
+
